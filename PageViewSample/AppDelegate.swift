@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PageViewSample
 //
-//  Created by Kazuhiro Hayashi on 1/24/15.
+//  Created by Kazuhiro Hayashi on 1/26/15.
 //  Copyright (c) 2015 Kazuhiro Hayashi. All rights reserved.
 //
 
